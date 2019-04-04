@@ -17,5 +17,5 @@ But overall, there were some positive inputs from this experience. I'm including
 - An awesome [course](https://www.udemy.com/php-with-laravel-for-beginners-become-a-master-in-laravel/) from Udemy, taught by Edwin Diaz. It's quite helpful for Windows and Mac users. It is still a work in progress for me, a lot left to be learnt.
 
 
-## Overall
+## Currently
 This is in my soon-to-be-mastered list!
